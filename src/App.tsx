@@ -130,3 +130,18 @@ export default App;
 // }
 
 // export default App;
+
+
+// state change color and b
+
+{/* <p
+        style={{ color: state ? 'green' : 'red', backgroundColor: state ? 'grey' : 'blue' }}
+      >{state ? 'change the text' : 'text changed'}</p>
+      <button
+        onClick={handleClick}
+      >click me</button> */}
+
+       // const [state, setState] = useState(true)
+  // const handleClick = () => {
+  //   setState(!state)
+  // }
